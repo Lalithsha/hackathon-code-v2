@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653909466040",
+    "project_id": "multiple-language-support",
+    "storage_bucket": "multiple-language-support.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653909466040:android:fa1e91ddd9a6392b76cd4d",
+        "android_client_info": {
+          "package_name": "com.lalithsharma.multiplelanguagesupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653909466040-3mrum9dmkid2bn1l9q5i06utpp5b4o8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASXpSYwkxWms7RRQi1htTwofRCwtpoyYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653909466040-3mrum9dmkid2bn1l9q5i06utpp5b4o8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
